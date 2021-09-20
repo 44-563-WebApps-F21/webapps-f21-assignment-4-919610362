@@ -43,3 +43,9 @@ tr:nth-child(even) {background-color: seashell;}
     border-color: black;
     padding: 15px;
 }
+
+.nameHover:hover{
+    text-shadow: 2px 2px violet;
+    border-style: groove;
+    border-color: black;
+}
