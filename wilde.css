@@ -29,3 +29,23 @@
     color:orangered;
 }
 
+.tableStyle{
+    border-style: dashed;
+    border-color:tomato;
+    text-align: center;
+    margin: 25px 0px 0px 350px;
+}
+
+tr:nth-child(even) {background-color: seashell;}
+
+.columnNrow{
+    border-style: double;
+    border-color: black;
+    padding: 15px;
+}
+
+.nameHover:hover{
+    text-shadow: 2px 2px violet;
+    border-style: groove;
+    border-color: black;
+}
