@@ -1,4 +1,4 @@
-;.speech {
+.speech {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 15px;
     color: black;
@@ -45,7 +45,7 @@ tr:nth-child(even) {background-color: seashell;}
 }
 
 .nameHover:hover{
-    text-shadow: 2px 2px violet;
+    text-shadow: 5px 5px violet;
     border-style: groove;
     border-color: black;
 }
